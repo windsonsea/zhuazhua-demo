@@ -17,15 +17,14 @@
 
 ## 在线演示
 
-查看 **[演示页面](./demo.html)** 或直接开始对话：
-
-**[打开控制台 →](http://10.233.102.182:10001/)**
+查看 **[演示页面](https://windsonsea.github.io/zhuazhua-demo/demo.html)**
 
 ## 技术栈
 
 - **框架**: OpenClaw 2026.4.7
 - **模型**: MiniMax M25
 - **部署**: 自托管 (Linux)
+- **托管**: GitHub Pages
 
 ## 快速命令
 
